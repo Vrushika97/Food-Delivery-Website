@@ -1,0 +1,27 @@
+/* navigation section */
+.navbar{
+    flex-direction: column;
+}
+
+
+/* home section*/
+.containor {
+    height: 380px;
+    flex-direction: column;
+}
+.containor ::before{
+    height: 800px;
+}
+
+
+/* servies section */
+.servies-containor{
+    flex-direction: column;
+}
+
+
+/* contact us */
+
+
+
+/* footer */
